@@ -58,7 +58,11 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Reflejan correctamente una situación real, comenzando sin problema, hasta encontrarse con las carencias de la página.
+![journeyRene](img/journeyRene.png) 
+
+![journeyPablo](img/journeyPablo.png) 
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
