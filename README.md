@@ -49,7 +49,10 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+ Reflejan correctamente usuarios reales, pues sus intereses y motivaciones coinciden con sus formas de actuación.
+![personaRene](img/personaRene.png) 
+![personaPablo](img/personaPablo.png) 
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
