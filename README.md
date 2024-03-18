@@ -37,7 +37,14 @@ Hemos hecho un user research acerca de la pagina GranaVentour debido a que tenem
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Según la comparativa, podemos notar que la página web elegida, aunque presente varios problemas de diseño y de experiencia de usuario, no es la única. Otras dos páginas de la misma temática, presentan problemas parecidos, como pueden ser la falta de horarios, la ausencia de estimaciones sobre la duración de las actividades, estimaciones del precio de la actividad, o direcciones de llegada al punto de realización de la misma.
+
+Se puede ver que los problemas que afectan a esta página particular son prevalentes en un ámbito bastante grande, aunque es cierto que la página web elegida presenta determinados problemas de diseño, distintos a las otras, como pueden ser una barra de búsqueda no funcional o la presencia de demasiados modos de acceso a las actividades (barras de búsqueda, menús (que presentan poca información sobre actividades concretas), o un carrusel de imágenes con las actividades, más abajo en la página), que podrían confundir al usuario.
+
+En conclusión, la página, aún no siendo la única con carencias, presenta ciertos problemas que hacen que la experiencia de usuario se ve empeorada, y cuya solución no es demasiado compleja ni difícil. 
+Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2k00/DIU3.designers/blob/master/P1/DIU-p1-2-competitive.pdf)
+
+
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
