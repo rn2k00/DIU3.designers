@@ -31,8 +31,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
-
+Hemos hecho un user research acerca de la pagina GranaVentour debido a que tenemos algo de experiencia con la temática.
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
