@@ -32,6 +32,8 @@ Miembros
 -----
 
 Hemos hecho un user research acerca de la pagina GranaVentour debido a que tenemos algo de experiencia con la temática.
+[Aqui puede verlo completo](https://github.com/rn2k00/DIU3.designers/blob/master/P1/DIU-p1-1-userResearch.pdf)
+
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
