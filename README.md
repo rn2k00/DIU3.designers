@@ -50,6 +50,7 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 -----
 
  Reflejan correctamente usuarios reales, pues sus intereses y motivaciones coinciden con sus formas de actuación.
+ 
 ![personaRene](img/personaRene.png) 
 ![personaPablo](img/personaPablo.png) 
 
@@ -59,6 +60,7 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 
 
 Reflejan correctamente una situación real, comenzando sin problema, hasta encontrarse con las carencias de la página.
+
 ![journeyRene](img/journeyRene.png) 
 
 ![journeyPablo](img/journeyPablo.png) 
