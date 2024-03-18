@@ -68,12 +68,10 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento: [Usability Review](https://github.com/rn2k00/DIU3.designers/blob/master/P1/DS-p1-5-usability%20-%20Usability%20scores.pdf) 
 >>> - Valoración final (numérica): 59
 ![usability](img/usability.png) 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración:  Tras analizar exhaustivamente el sitio web GranaVentour, hemos otorgado una puntuación de 59 sobre 100, indicando áreas de mejora clave en la experiencia del usuario (UX) y usabilidad. Recomendamos enfocarse en mejorar la funcionalidad, implementando una función de horarios y precios. Además, se sugiere diversificar la oferta de actividades y ampliar la cobertura geográfica para atraer a un público más amplio. Mejorar la funcion de resera y búsqueda. Al abordar estas áreas, GranaVentour puede mejorar su plataforma y aumentar la satisfacción y compromiso de los usuarios.
 
 
 ## Paso 2. UX Design  
