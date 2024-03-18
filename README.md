@@ -70,8 +70,9 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Enlace al documento: [Usability Review](https://github.com/rn2k00/DIU3.designers/blob/master/P1/DS-p1-5-usability%20-%20Usability%20scores.pdf) 
+>>> - Valoración final (numérica): 59
+![usability](img/usability.png) 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 
