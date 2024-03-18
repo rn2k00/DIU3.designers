@@ -44,7 +44,7 @@ Se puede ver que los problemas que afectan a esta página particular son prevale
 En conclusión, la página, aún no siendo la única con carencias, presenta ciertos problemas que hacen que la experiencia de usuario se ve empeorada, y cuya solución no es demasiado compleja ni difícil. 
 Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2k00/DIU3.designers/blob/master/P1/DIU-p1-2-competitive.pdf)
 
-![competitive](img/experimentoET.png) 
+![competitive](img/DIU-p1-2-competitivepng.png) 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
