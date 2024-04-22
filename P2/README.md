@@ -1,29 +1,26 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+* 1. Mapa de empatía 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* 2. ScopeCanvas
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* 3. User Task Matrix 
+* 4. User/Task flow
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* 5. Sitemap 
+* 6. Labelling 
 
 
 ### Prototipo Lo-FI Wireframe 
-
+* 7. Bocetos
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
