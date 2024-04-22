@@ -22,5 +22,3 @@
 ### Prototipo Lo-FI Wireframe 
 * 7. Bocetos
 
-### Conclusiones  
-(incluye valoración de esta etapa)
