@@ -1,0 +1,3 @@
+Nombre equipo: Designers (10)
+Autores: Brandon René Morales Viracocha, Pablo García Guijosa
+Enlace Github: https://github.com/rn2k00/DIU3.designers
