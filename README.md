@@ -85,7 +85,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ----
 
 
-![EmpathyMap](img/mapaempatia.png) 
+![EmpathyMap](img/mapaempatia.jpeg) 
 
 
 
