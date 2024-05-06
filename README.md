@@ -91,19 +91,19 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![Scope Canvas](img/scopeCanvas.png) 
+![Scope Canvas](img/scopeCanvas.jpeg) 
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-![tablaTareas](img/tablaTareas.png)
-![userFlow](img/userFlow.png) 
+![tablaTareas](img/tablaTareas.jpeg)
+![userFlow](img/userFlow.jpeg) 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-![siteMap](img/siteMap.png) 
-![labeling](img/labeling.png) 
+![siteMap](img/siteMap.jpeg) 
+![labeling](img/labeling.jpeg) 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
