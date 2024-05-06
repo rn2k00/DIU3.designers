@@ -49,7 +49,11 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
- Reflejan correctamente usuarios reales, pues sus intereses y motivaciones coinciden con sus formas de actuación.
+Nuestros personajes reflejan dos posibles usuarios de la página en cuestión. Uno es un usuario más novato y hace referencia al usario cotidiano y público en general, mientras que el otro refleja a un usuario experto, que tiene una serie de necesidades más avanzadas que una persona cotidiana, además de necesitar mayor control sobre las experiencias en cuestión.
+
+La primera persona, se trata de una mujer no familiarizada con este tipo de actividades, aunque está dispuesta a probarlas. Por ello, no sabe qué debería esperar de este tipo de actividades ni de una página que las oferta.
+
+La segunda, se trata de un hombre aficionado a las actividades ofertadas, que busca un medio rápido y sencillo de poder realizarlas sin complicaciones. Es por ello, que es un tipo de cliente más exigente y que puede detectar mejor ciertas carencias, pues sabe lo que quiere y lo que se debería ofertar.
  
 ![personaRene](img/personaRene.png) 
 ![personaPablo](img/personaPablo.png) 
@@ -59,7 +63,7 @@ Desarrollamos este tema en nuestro [Analisis Competitivo](https://github.com/rn2
 ----
 
 
-Reflejan correctamente una situación real, comenzando sin problema, hasta encontrarse con las carencias de la página.
+Reflejan correctamente una situación real, comenzando sin problema, hasta encontrarse con las carencias de la página. Es tras presenciar estas carencias cuando la experiencia empieza a empeorar, produciendo finalmente que el usuario se sienta bastante frustrado con la experiencia de uso.
 
 ![journeyRene](img/journeyRene.png) 
 
