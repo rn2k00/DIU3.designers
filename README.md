@@ -121,17 +121,14 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![mooodBoard](img/moodBoard.jpeg) 
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![landingPage](img/landingPage.png) 
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
