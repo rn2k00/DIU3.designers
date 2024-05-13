@@ -109,7 +109,11 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-BOCETOOOOS
+
+
+![inicio](img/inicio.png) 
+![inicioAncho](img/inicioAncho.png) 
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
