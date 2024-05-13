@@ -102,7 +102,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 ![siteMap](img/siteMap.jpeg) 
-![labeling](img/labeling.jpeg) 
+![labeling](img/labeling2.png) 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
