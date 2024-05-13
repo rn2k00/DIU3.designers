@@ -97,7 +97,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-![tablaTareas](img/tablaTareas.jpeg)
+![tablaTareas](img/tablaTareas.png)
 ![userFlow](img/userFlow.jpeg) 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
