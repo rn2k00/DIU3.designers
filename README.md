@@ -142,7 +142,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![layoutPerfilAcerca](img/layPerAcer.png) 
 ![layoutRutasReservas](img/layRutRes.png) 
 
-Puede ver las animaciones en nuestro enlace a [FIGMA](https://www.figma.com/proto/RQhZhLnQP22OLBTPEvSeqW/appSenderismo?node-id=54523-25233&t=wCVoZf66whRH4ieM-1&scaling=min-zoom&page-id=54324%3A24835&starting-point-node-id=54523%3A25233&show-proto-sidebar=1) 
+Puede ver las animaciones en nuestro enlace a [FIGMA](https://www.figma.com/proto/RQhZhLnQP22OLBTPEvSeqW/appSenderismo?node-id=54523-25233&t=wCVoZf66whRH4ieM-1&scaling=min-zoom&page-id=54324%3A24835&starting-point-node-id=54523%3A25233&show-proto-sidebar=1) **(NOTA: esperar unos segundos para que carguen las imágenes del mockup al iniciar la presentación).**
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
