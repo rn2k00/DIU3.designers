@@ -130,7 +130,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![landingPage](img/landingPage.png) 
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+ 3.c Guidelines
 ----
 
  ![guidelines](img/guidelinesGR.png) 
