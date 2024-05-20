@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![logoDes](img/logoDes.png)
 
 Miembros
  * :bust_in_silhouette:   Pablo Garcia Guijosa    :octocat:     
