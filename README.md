@@ -138,7 +138,11 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![layoutRegistro](img/layReg.png) 
+![layoutInicioBusqueda](img/layIniBus.png) 
+![layoutPerfilAcerca](img/layPerAcer.png) 
+![layoutRutasReservas](img/layRutRes.png) 
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
