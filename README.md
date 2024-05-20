@@ -149,8 +149,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+Esta es la ultima parte de nuestro trabajo acerca de nuestra app de senderismo, creemos que satisface las necesidades del usuario y se ha seguido correctamente la sindicaciones que no s pedian.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
