@@ -149,7 +149,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 -----
 
 
-Esta es la ultima parte de nuestro trabajo acerca de nuestra app de senderismo, creemos que satisface las necesidades del usuario y se ha seguido correctamente la sindicaciones que no s pedian.
+Esta es la ultima parte de nuestro trabajo acerca de nuestra app de senderismo, creemos que satisface las necesidades del usuario y se ha seguido correctamente la sindicaciones que nos pedian.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
