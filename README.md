@@ -133,7 +133,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
- ![guidelines](img/guidelines.png) 
+ ![guidelines](img/guidelinesGR.png) 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
