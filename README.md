@@ -5,11 +5,11 @@ Grupo: DIU3_Designers.  Curso: 2023/24
 Updated: 17/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Rutas Andalucia
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Aplicación para reservar rutas por Andalucia.
 
 Logotipo: 
 
@@ -144,7 +144,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![layoutPerfilAcerca](img/layPerAcer.png) 
 ![layoutRutasReservas](img/layRutRes.png) 
 
-
+Puede ver las animaciones en nuestro enlace a [FIGMA](https://www.figma.com/proto/RQhZhLnQP22OLBTPEvSeqW/appSenderismo?node-id=54523-25233&t=wCVoZf66whRH4ieM-1&scaling=min-zoom&page-id=54324%3A24835&starting-point-node-id=54523%3A25233&show-proto-sidebar=1) 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
