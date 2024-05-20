@@ -137,7 +137,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-![layoutRegistro](img/layReg.png) 
+![layoutRegistro](img/nuevoLay.png) 
 ![layoutInicioBusqueda](img/layIniBus.png) 
 ![layoutPerfilAcerca](img/layPerAcer.png) 
 ![layoutRutasReservas](img/layRutRes.png) 
