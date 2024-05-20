@@ -7,9 +7,7 @@ Updated: 17/3/2024
 Proyecto: 
 Rutas Andalucia
 
-Descripción: 
-
-Aplicación para reservar rutas por Andalucia.
+Descripción: Aplicación para explorar paisajes y reservar rutas por Andalucía.
 
 Logotipo: 
 
