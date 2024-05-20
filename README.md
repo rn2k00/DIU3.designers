@@ -133,8 +133,7 @@ Reflejan correctamente una situación real, comenzando sin problema, hasta encon
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+ ![guidelines](img/guidelines.png) 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
