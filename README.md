@@ -234,10 +234,13 @@ Diseño del experimento
 Resultados y valoración 
 -----
 
+![a1](img/a1.jpeg) 
+![a2](img/a2.jpeg) 
+![a3](img/a3.jpeg) 
+![b1](img/b1.jpeg) 
+![b2](img/b2.jpeg) 
+![b3](img/b3.jpeg) 
 
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
