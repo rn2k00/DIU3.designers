@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario - 2023-24 Rutas Andalucia 
 
 Grupo: DIU3_Designers.  Curso: 2023/24 
-Updated: 17/3/2024
+Updated: 02/06/2024
 
 Proyecto: 
 Rutas Andalucia
@@ -188,18 +188,21 @@ Adjuntamos el usability report:
 ----
 
 
-#Incidencias:
+**Incidencias:**
 No han habido incidencias al realizar las pruebas. Han sido rápidas y de fácil realización.
 
-#Valoración:
+**Valoración:**
 Las pruebas proporcionan una forma bastante rápida y eficiente de darnos una idea general de aspectos cruciales de mejora, que simplemente pensándolos por nuestra 
 cuenta o preguntando a los participantes sin un esquema prefijado habría resultado bastante más complicado, largo y tedioso.
 
-#Recomendaciones y propuesta de mejoras:
+**Recomendaciones y propuesta de mejoras:**
+
 ● Reducir el número de colores distintos que se utilizan en la interfaz.
 Elegir uno o dos que se considere que representan el estilo de la aplicación y utilizar tonalidades de los mismos.
+
 ● Mejorar contraste entre colores y reducir saturación. Las gamas de verde, azul y rojo tienen a la vez mal contraste (por ejemplo, en la barra
 inferior y superior entre los botones azules o rojos y el fondo verde) y están demasiado saturados (fondo verde claro y botones azul claro).
+
 ● Crear más espacio en blanco. Actualmente, la aplicación presenta demasiados elementos en pantalla en todo momento y puede cansar.
 
 ## Conclusión final / Valoración de las prácticas
