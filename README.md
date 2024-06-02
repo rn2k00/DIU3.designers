@@ -157,8 +157,9 @@ Esta es la ultima parte de nuestro trabajo acerca de nuestra app de senderismo, 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-Se nos ha asignado a estuadiar el proyecto El Trotamundos del grupo LosTomates el cual ofrece una apliacación que reserva actividades 
-deportivas de diferentes tipos.
+Se nos ha asignado a estuadiar el proyecto El Trotamundos del grupo LosTomates. La aplicación está diseñada para un club de senderismo. Con ella, se pueden
+reservar una serie de rutas de senderismo, además de poder ver información relevante sobre las mismas, como pueden ser la fecha de realización, el precio,
+dificultad, etc. También se pueden dejar comentarios para conversar con otros usuarios, y existe una sección de comunicación con los monitores de dicho club.
 Se en encuentra en https://github.com/Alejandroibo/DIU.LosTomates.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -183,33 +184,34 @@ Centrandonos en el analisis del proyecto B podemos ver que entra en el rango ace
 Adjuntamos el usability report:
 [Usability Report](https://github.com/rn2k00/DIU3.designers/blob/master/P4/UsabilityReviewR.pdf)
 
-
-
-
->>> Valoración personal 
-
-
-
-
-
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+#Incidencias:
+No han habido incidencias al realizar las pruebas. Han sido rápidas y de fácil realización.
 
+#Valoración:
+Las pruebas proporcionan una forma bastante rápida y eficiente de darnos una idea general de aspectos cruciales de mejora, que simplemente pensándolos por nuestra 
+cuenta o preguntando a los participantes sin un esquema prefijado habría resultado bastante más complicado, largo y tedioso.
 
-
-
-
+#Recomendaciones y propuesta de mejoras:
+● Reducir el número de colores distintos que se utilizan en la interfaz.
+Elegir uno o dos que se considere que representan el estilo de la aplicación y utilizar tonalidades de los mismos.
+● Mejorar contraste entre colores y reducir saturación. Las gamas de verde, azul y rojo tienen a la vez mal contraste (por ejemplo, en la barra
+inferior y superior entre los botones azules o rojos y el fondo verde) y están demasiado saturados (fondo verde claro y botones azul claro).
+● Crear más espacio en blanco. Actualmente, la aplicación presenta demasiados elementos en pantalla en todo momento y puede cansar.
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+Consideramos que las pruebas realizadas han sido útiles, pues han permitido comprobar de forma verídica con usuario reales si las decisiones de diseño y 
+emplazamiento de los distintos elementos en pantalla han acabado siendo tan satisfactorios como nosotros considerábamos a la hora de realizar el diseño, o si las
+decisiones de diseño que hemos notado en la otra aplicación acaban provocando los efectos negativos que habíamos expuesto.
+Hemos comprobado, gracias a las altas notas en los test y a los heatmaps, que la atención generalmente se sitúa sobre elementos que tanto los otros diseñadores
+como nosotros considerábamos importantes, que el diseño final es muy bueno en ambos casos (menos en el caso B), al menos desde el punto de vista de los
+usuarios objetivos, y que los aspectos negativos que habíamos considerado en la aplicación B no han supuesto una valoración final negativa según los usuarios (ha
+sido en general muy positiva). 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
